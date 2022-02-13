@@ -5,3 +5,9 @@ body  {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.cv {
+    text-align: left;
+    padding-left: 5rem;
+    background-color: rgb(85, 59, 27);
+}
